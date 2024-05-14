@@ -1,4 +1,4 @@
-# Ex-10-IMPLEMENTATION-OF-SIMPLE-CODE-OPTIMIZATION-TECHNIQUES
+# Ex-10-IMPLEMENTATION-OF-SIMPLE-CODE-OPTIMIZATION-TECHNIQUE
 IMPLEMENTATION OF SIMPLE CODE OPTIMIZATION TECHNIQUES 
 # Aim:
   To write a C program to implement simple code optimization techniques such as Common subexpression elimination and Dead Code elimination.
