@@ -103,7 +103,7 @@ int main() {
 
     return 0;
 }
-```
+`
 # OUTPUT
 
 ![image](https://github.com/dhivyapriyar/Ex-10-IMPLEMENTATION-OF-SIMPLE-CODE-OPTIMIZATION-TECHNIQUES/assets/119477552/243b7f4d-408a-4754-9c6a-96151013902a)
